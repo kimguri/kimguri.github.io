@@ -25,7 +25,7 @@ author_profile: true
     {% for post in collection.docs %}
     {% unless collection.output == false or collection.label == "posts" %}
     {% include archive-single.html %}
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
     {% endunless %}
     {% endfor %}
 {% endfor %}
