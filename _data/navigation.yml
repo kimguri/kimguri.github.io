@@ -22,9 +22,9 @@ games:
   - title: Games
     children:
       - title: "Assassin's Creed: Odyssey"
-        url: /categories/#assassin-s-creed-odyssey
-      - title: "Structure"
-        url: /structure/
+        url: /collection-archive/#assassin-s-creed-odyssey
+      - title: "portfolio"
+        url: /collection-archive/#portfolio
       - title: "Installation"
         url: /installation/
       - title: "Upgrading"
