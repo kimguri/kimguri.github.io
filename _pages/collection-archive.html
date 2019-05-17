@@ -1,7 +1,7 @@
 ---
 layout: archive
 #title: "Posts by Collection"
-permalink: /collection-archive/
+permalink: /collection/
 author_profile: true
 ---
 
@@ -21,11 +21,11 @@ author_profile: true
 
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
-    {% endunless %}
-    {% for post in collection.docs %}
+  {% endunless %}
+  {% for post in collection.docs %}
     {% unless collection.output == false or collection.label == "posts" %}
-    {% include archive-single.html %}
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+      {% include archive-single.html %}
     {% endunless %}
-    {% endfor %}
+  {% endfor %}
 {% endfor %}
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

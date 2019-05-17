@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
   - title: "Collections"
-    url: /collection-archive/
-  - title: "Category"
-    url: /categories/
+    url: /collection/
+  # - title: "Category"
+  #   url: /categories/
   - title: "Home"
     url: /
   
@@ -18,47 +20,21 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-games:
+menu:
+  - title: Programming
+    children:
+      - title: "Unity"
+        url: /collection/#unity
+        
   - title: Games
     children:
       - title: "Assassin's Creed: Odyssey"
-        url: /collection-archive/#assassin-s-creed-odyssey
-      - title: "portfolio"
-        url: /collection-archive/#portfolio
-      - title: "Installation"
-        url: /installation/
-      - title: "Upgrading"
-        url: /upgrading/
+        url: /collection/#aco
 
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+  
+  # - title: Extras
+  #   children:
+  #     - title: "Stylesheets"
+  #       url: /docs/stylesheets/
+  #     - title: "JavaScript"
+  #       url: /docs/javascript/
