@@ -8,9 +8,11 @@ toc_icon: file-alt
 
 <head>
     <style type="text/css">
-        tbody, th {text-align: center; }
-        .notice--primary {width: 50%; margin-left: 24px; }
-        b {color: crimson}
+        aside { font-size: 22px; }
+        section { font-size: 18px; }
+        tbody, th { text-align: center; }
+        .notice--primary { width: 50%; margin-left: 24px; }
+        b { color: crimson; }
     </style>
 </head>
 <br>
