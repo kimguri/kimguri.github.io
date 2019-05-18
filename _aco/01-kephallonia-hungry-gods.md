@@ -42,16 +42,13 @@ toc_icon: file-alt
 
 
 
-# 드로가라티 구역 정보
+# 구역 목표
 {% capture notice %}
-**구역 목표**
-
-* 두목 처치하기 0/1
-* 보물 획득하기 0/1
+* 두목 처치하기　0/1
+* 보물 획득하기　0/1
 {% endcapture %}
 
 <div class="notice--primary">{{ notice | markdownify }}</div>
-
 <br>
 
 # 퀘스트 진행
