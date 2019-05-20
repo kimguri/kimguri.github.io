@@ -4,6 +4,7 @@ excerpt: 케팔로니아 서브 퀘스트
 classes: wide #와이드 페이지 설정
 toc: true
 toc_icon: file-alt
+toc_sticky: true
 ---
 
 <head>
@@ -19,7 +20,7 @@ toc_icon: file-alt
 
 
 
-# 퀘스트 보상
+<!-- # 퀘스트 보상
 <table>
     <thead>
         <tr>
@@ -38,7 +39,8 @@ toc_icon: file-alt
     </tbody>
 </table>
 
-<br>
+<br> -->
+
 
 
 
@@ -94,7 +96,7 @@ toc_icon: file-alt
 
 8. 동굴 내부의 도적 모두 처치
     <a href="/assets/images/aoc/kephallonia/01-hungry-gods/8.png"><img src="/assets/images/aoc/kephallonia/01-hungry-gods/8.png"></a>
-    - 진행하면서 구역 목표 달성 가능! <b>(필수 아님)</b>
+    - 진행하면서 구역 목표 달성 가능! <b>(선택 사항)</b>
         - <b style="color:#494e52">도적 두목을 처치</b>하여 구역 목표 달성
         - <b style="color:#494e52">상자를 획득</b>하여 구역 목표 달성
             <figure class="half" style="margin: 0px;">
@@ -107,13 +109,17 @@ toc_icon: file-alt
 
 10. 돌아가던 중 벽의 균열을 지날 때 서브 퀘스트 발생
     - 다른 신도가 와서 소원을 빈다.
-    - 플레이어는 퀘스트를 <b>수락/거절</b>할 수 있다.
-        - 계속 대답하지 않기 ☞ 퀘스트 거절
-        - 대답하기 ☞ '자비로운 신들' 퀘스트 수락
+    - 플레이어의 대답에 따라 퀘스트를 **수락/거절**할 수 있다.
+
+        ||대답하기 || 대답 안하기||
+        ||:------:||:--------:||
+        ||['자비로운 신들' <br> 퀘스트 수락](../www.naver.com){: .btn .btn--success .btn--large} || 퀘스트 거절||
+        
         <pre></pre>
 
-11. 퀘스트를 줬던 신도에게 돌아가기
-    - 신도에게 모든 내용 전달 후 퀘스트 완료!
+11. 신도에게 돌아가 대화하여 퀘스트 완료
+
+
 
 
 
