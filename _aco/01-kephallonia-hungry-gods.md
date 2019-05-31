@@ -73,12 +73,15 @@ toc_sticky: true
     
 2. 동굴 앞 "시민"에게 말걸기
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/2.png">
-    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/2.png"></a>
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/2.png">
+    </a>
     <pre></pre>
 
 3. 대화 후 드로가라티 동굴로 들어가기
     - 아래 이미지의 동상이 나오는 곳까지 들어가기
-    <a href="/assets/images/aoc/kephallonia/01-Hungry-gods/3.jpeg"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/3.jpeg"></a>
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-Hungry-gods/3.jpeg">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-Hungry-gods/3.jpeg">
+    </a>
     <pre></pre>
 
 
