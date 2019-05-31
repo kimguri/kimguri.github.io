@@ -34,53 +34,53 @@ toc_sticky: true
 
 1. "여신관"과 대화하기
     <figure class="half" style="margin: 0px;">
-        <a href="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/1-1.png">
-            <img src="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/1-1.png">
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/1-1.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/1-1.png">
         </a>
-        <a href="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/1-2.png">
-            <img src="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/1-2.png">
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/1-2.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/1-2.png">
         </a>
     </figure>
     <pre></pre>
     
 2. 표시된 위치로 이동하여 이카로스 호출
     <figure class="third" style="margin: 0px;">
-        <a href="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-1.png">
-            <img src="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-1.png">
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-1.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-1.png">
         </a>
-        <a href="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-2.png">
-            <img src="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-2.png">
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-2.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-2.png">
         </a>
-        <a href="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-3.png">
-            <img src="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-3.png">
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-3.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/2-3.png">
         </a>
     </figure>
     <pre></pre>
 
 3. 발견한 위치로 이동하여 물 속으로 들어가기
     - 물 속으로 떨어지면 <b>보물상자①과 도편 획득 가능</b>
-    <a href="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/3-1.png">
-        <img src="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/3-1.png">
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/3-1.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/3-1.png">
     </a>
     <pre></pre>
 
 4. 수면 위로 올라와서 동굴로 들어가기
     - 동굴 안으로 들어가서 잠수로 이동 => <b>수면이 얕아질 때까지 계속 앞으로 이동</b>
-    <a href="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/4.png">
-        <img src="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/4.png">
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/4.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/4.png">
     </a>
     <pre></pre>
 
 5. 수면 위로 올라와서 보이는 길로 계속 직진
     - 멜리사니 동굴로 입장 => <b>적이 등장하니 조심!</b>
-    <a href="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/5.png">
-        <img src="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/5.png">
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/5.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/5.png">
     </a>
     <pre></pre>
 
 6. 안쪽으로 들어가면 보물상자② 획득
-    <a href="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/6.png">
-        <img src="/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/6.png">
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/6.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/6.png">
     </a>
     <pre></pre>
 
