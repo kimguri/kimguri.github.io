@@ -39,12 +39,14 @@ toc_sticky: true
             <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/06-Shark-the-Vagrant/1-2.png">
         </a> 
     </figure>
+    <pre></pre>
 
 2. 가라앉은 신전에서 목걸이 찾기
     - 총 3개의 힌트
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/06-Shark-the-Vagrant/2.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/06-Shark-the-Vagrant/2.png">
     </a>
+    <pre></pre>
     <pre></pre>
 
 3. 근처로 이동하면 이카로스 호출
@@ -56,6 +58,7 @@ toc_sticky: true
             <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/06-Shark-the-Vagrant/4-1.png">
         </a>
     </figure>
+    <pre></pre>
     
 
 4. 바다 속으로 잠수하여 상자 획득
@@ -64,6 +67,7 @@ toc_sticky: true
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/06-Shark-the-Vagrant/5.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/06-Shark-the-Vagrant/5.png">
     </a> 
+    <pre></pre>
     <pre></pre>
 
 5. 채소 상인에게 돌아가 대화하기

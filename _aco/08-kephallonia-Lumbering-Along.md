@@ -1,5 +1,5 @@
 ---
-title: \[케팔로니아] 열병
+title: \[케팔로니아] 목재를 찾아서
 excerpt: 케팔로니아 서브 퀘스트
 classes: wide #와이드 페이지 설정
 toc: true
@@ -13,37 +13,17 @@ toc_sticky: true
         section { font-size: 16px; }
         .notice--primary > ul { font-size: 14px; }
         tbody, th { text-align: center; }
-        .notice--warning { width: 50%; margin-left: 24px; }
+        .notice--primary { width: 50%; margin-left: 24px; }
         b { color: crimson; }
     </style>
 </head>
 <br/>
 
-# 주의사항
+
+# 구역정보
 {% capture notice %}
-* 해당 퀘스트는 선택에 따라 게임 진행에 큰 영향이 있음!
-{% endcapture %}
-
-<div class="notice--warning">{{ notice | markdownify }}</div>
-<br/>
-
-
-
-# 구역정보 <b>(선택사항)</b>
-{% capture notice %}
-* 도편 "재는 재로"
-* 보물상자 획득 가능
-* 위치정보
-    - 신관을 마주보고 서서 우측 건물에서 <b>도편과 보물상자</b> 획득 가능
-        <figure class="half" style="margin: 0px;">
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/3-1.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/3-1.png">
-            </a>
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/3-2.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/3-2.png">
-            </a>
-        </figure>
-
+* 두목 처치하기　0/1
+* 보물 획득하기　0/2
 {% endcapture %}
 
 <div class="notice--primary">{{ notice | markdownify }}</div>

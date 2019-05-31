@@ -70,50 +70,64 @@ toc_sticky: true
             </a>
         </div>
         <div class="singo_view" id="SirenDiv" style="display:none">
-            <ul>
-                <li>두목 처치하기 0/2</li>
-                <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-1.png">
-                    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-1.png">
-                </a>
-            </ul>
-            <br/>
-            <ul>
-                <li>포로 풀어주기 0/1</li>
-                <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-2.png">
-                    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-2.png">
-                </a>
-            </ul>
-            <br/>
-            <ul>
-                <li>보물 획득하기 0/3</li>
-                <figure class="half" style="margin: 0px;">
-                    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-3.png">
-                        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-3.png">
-                    </a>
-                    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-1.png">
-                        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-1.png">
-                    </a>
-                </figure>
-                <figure class="half" style="margin: 0px;">
-                    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-4.png">
-                        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-4.png">
-                    </a>
-                    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/4-1.png">
-                        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/4-1.png">
-                    </a>
-                </figure>
-                <figure class="third" style="margin: 0px;">
-                    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-5.png">
-                        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-4.png">
-                    </a>
-                    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-2-1.png">
-                        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-2-1.png">
-                    </a>
-                    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-2-2.png">
-                        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-2-2.png">
-                    </a>
-                </figure>
-            </ul>                
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width:15%">순서</th>
+                        <th>이미지</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>두목 처치하기 0/2</td>
+                        <td>
+                            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-1.png">
+                                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-1.png">
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>포로 풀어주기 0/1</td>
+                        <td>
+                        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-2.png">
+                            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-2.png">
+                        </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>보물 획득하기 0/3</td>
+                        <td>
+                            <figure class="half" style="margin: 0px;">
+                                <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-3.png">
+                                    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-3.png">
+                                </a>
+                                <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-1.png">
+                                    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-1.png">
+                                </a>
+                            </figure>
+                            <figure class="half" style="margin: 0px;">
+                                <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-4.png">
+                                    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-4.png">
+                                </a>
+                                <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/4-1.png">
+                                    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/4-1.png">
+                                </a>
+                            </figure>
+                            <figure class="third" style="margin: 0px;">
+                                <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-5.png">
+                                    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-4.png">
+                                </a>
+                                <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-2-1.png">
+                                    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-2-1.png">
+                                </a>
+                                <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-2-2.png">
+                                    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/3-c-2-2.png">
+                                </a>
+                            </figure>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>              
         </div>
     </div>
     <pre></pre>

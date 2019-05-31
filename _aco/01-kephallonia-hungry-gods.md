@@ -79,8 +79,8 @@ toc_sticky: true
 
 3. 대화 후 드로가라티 동굴로 들어가기
     - 아래 이미지의 동상이 나오는 곳까지 들어가기
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-Hungry-gods/3.jpeg">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-Hungry-gods/3.jpeg">
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/3.jpeg">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/3.jpeg">
     </a>
     <pre></pre>
 
