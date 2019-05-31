@@ -23,18 +23,18 @@ toc_sticky: true
 
 1. 여자의 집 조사하기
     - 근처의 상호작용 2가지 => 망가진 수레, 만들어둔 바구니들
-        <a href="/assets/images/aoc/kephallonia/03-Merciful-Gods/1.png">
-            <img src="/assets/images/aoc/kephallonia/03-Merciful-Gods/1.png">
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/1.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/1.png">
         </a>
     <pre></pre>
     
 2. 근처에 있는 바구니에 동굴에서 찾은 보물 놓기
     <figure class="half" style="margin: 0px;">
-        <a href="/assets/images/aoc/kephallonia/03-Merciful-Gods/2.png">
-            <img src="/assets/images/aoc/kephallonia/03-Merciful-Gods/2.png">
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/2.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/2.png">
         </a>
-        <a href="/assets/images/aoc/kephallonia/03-Merciful-Gods/3.png">
-            <img src="/assets/images/aoc/kephallonia/03-Merciful-Gods/3.png">
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/3.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/3.png">
         </a>
     </figure>
     <pre></pre>
