@@ -43,6 +43,7 @@ toc_sticky: true
 # 퀘스트 진행
 
 1. 남쪽 "별 관측대" 동기화 시 퀘스트 활성화
+    - 아래 이미지에서 <b>플레이어 위치에서 동기화</b>
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/1.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/1.png">
     </a>

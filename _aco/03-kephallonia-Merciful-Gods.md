@@ -28,7 +28,7 @@ toc_sticky: true
         </a>
     <pre></pre>
     
-2. 근처에 있는 바구니에 동굴에서 찾은 보물 놓기
+2. 근처에 있는 바구니에 상호작용
     <figure class="half" style="margin: 0px;">
         <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/2.png">
             <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/2.png">

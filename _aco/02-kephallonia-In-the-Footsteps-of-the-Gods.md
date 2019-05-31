@@ -78,7 +78,7 @@ toc_sticky: true
     </a>
     <pre></pre>
 
-6. 안쪽으로 들어가면 보물상자② 획득
+6. 안쪽으로 들어가면 <b>보물상자②</b> 획득
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/6.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/6.png">
     </a>
@@ -87,4 +87,4 @@ toc_sticky: true
 7. "여신관"에게 돌아가 대화하여 퀘스트 완료
     - 돌아가는 길은 2가지<br/>
         1) 왔던 길을 다시 돌아가기<br/>
-        2) 보물상자②를 획득했던 곳에서 왼쪽 절벽으로 올라가서 벽 틈으로 지나가기 <b>(지름길)</b>
+        2) <b>보물상자②</b>를 획득했던 곳에서 왼쪽 절벽으로 올라가서 벽 틈으로 지나가기 <b>(지름길)</b>
