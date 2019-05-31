@@ -16,14 +16,22 @@ toc_sticky: true
         .notice--primary, .notice--warning { width: 50%; margin-left: 24px; }
         b { color: crimson; }
     </style>
+    <script>
+        function SirenFunction(idMyDiv){
+        var objDiv = document.getElementById(idMyDiv);
+        if(objDiv.style.display=="block")
+            objDiv.style.display = "none";
+        else
+            objDiv.style.display = "block";
+        }
+    </script> 
 </head>
 <br/>
 
 
-# 주의사항
+# 참고사항
 {% capture notice %}
 * 메인 퀘스트 <b>"페넬로페의 수의"</b>와 함께 진행하면 좋음
-* 스포일러는 드래그해서 보기
 {% endcapture %}
 
 <div class="notice--warning">{{ notice | markdownify }}</div>
@@ -34,77 +42,60 @@ toc_sticky: true
 
 1. 해당 위치로 이동
     - 케팔로니아 좌측 섬으로 이동
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/1.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/1.png">
-    </a>
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/1.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/1.png">
+        </a>
     <pre></pre>
     <pre></pre>
 
-2. 총 3곳을 조사
-    - 퀘스트 목적지 도착 후 상호작용
-        <figure class="half" style="margin: 0px;">
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-1.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-1.png">
-            </a>
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-2.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-2.png">
-            </a>
-        </figure>
-    - 목재 야적장 방향(지도 12시 방향)으로 이동 => 부서진 수레 상호작용
-        
-        <figure class="half" style="margin: 0px;">
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-3-1.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-3-1.png">
-            </a>
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-3-2.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-3-2.png">
-            </a>
-        </figure>
-
-    - 수레를 마주선채 좌측 방향으로 돌면 나오는 나무로 이동 후 상호작용
-        <figure class="half" style="margin: 0px;">
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-4-1.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-4-1.png">
-            </a>
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-4-2.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-4-2.png">
-            </a>
-        </figure>
+2. 수감자를 풀어준 후 쫓아가기
+    <figure class="half" style="margin: 0px;">
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/2-1.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/2-1.png">
+        </a>
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-2.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-2.png">
+        </a>
+    </figure>
     <pre></pre>
     
-3. 이카로스 호출
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/3.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/3.png">
+3. 수감자와 대화하기
+    - 자신이 "오데사"라고 밝히며 갇힌 이유를 설명해줌
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/3.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/3.png">
     </a>
     <pre></pre><pre></pre>
 
 
-4. 해당 위치로 이동하여 도적들 모두 처치
-    - 두목 처치하기 1/1 달성
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/3.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/3.png">
-    </a>
-    <pre></pre><pre></pre>
-
-5. 구역목표 달성 가능 <b>(선택사항)</b>
-    - <b>천막 안에 보물상자①</b> 획득
-        <figure class="half" style="margin: 0px;">
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/5-1.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/5-1.png">
-            </a>
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/5-2.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/5-2.png">
-            </a>
-        </figure>
-    - <b>바닷가쪽에서 보물상자②</b> 획득
-        <figure class="half" style="margin: 0px;">
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/5-3.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/5-3.png">
-            </a>
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/5-4.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/5-4.png">
-            </a>
-        </figure>
+4. 오데사 호위하기
+    - 궁전 내부에 들어가 해당 위치로 이동
+    <figure class="half" style="margin: 0px;">
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-1.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-1.png">
+        </a>
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-2.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-2.png">
+        </a>
+    </figure>
     <pre></pre>
 
-6. 드루실라에게 돌아가 대화하기
+5. 오데사와 대화 후 배까지 호위하기
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/5.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/5.png">
+    </a>
+    <pre></pre><pre></pre>
+
+6. 오데사와 대화하기
+    <div class="con_inner">
+        <div class="sir_singo_msg">
+            <a href="#" onclick="SirenFunction('SirenDiv'); return false;" class="blind_view btn">
+                <i class="fas fa-caret-square-down"></i> 스포일러
+            </a>
+        </div>
+        <div class="singo_view" id="SirenDiv" style="display:none">
+            <ul>
+                <li>오데사는 처음 만나는 연애대상!</li>
+                <li>플레이어 대답에 따라 추후 연애 방향이 바뀔 수 있음</li>
+            </ul>
+        </div>
+    </div>

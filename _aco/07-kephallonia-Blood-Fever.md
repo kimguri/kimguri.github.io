@@ -19,7 +19,7 @@ toc_sticky: true
 </head>
 <br/>
 
-# 주의사항
+# 참고사항
 {% capture notice %}
 * 해당 퀘스트는 선택에 따라 게임 진행에 큰 영향이 있음!
 {% endcapture %}
