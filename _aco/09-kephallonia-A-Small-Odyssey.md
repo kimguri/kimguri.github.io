@@ -1,5 +1,5 @@
 ---
-title: \[케팔로니아] 목재를 찾아서
+title: \[케팔로니아] 짧은 여정
 excerpt: 케팔로니아 서브 퀘스트
 classes: wide #와이드 페이지 설정
 toc: true
@@ -13,26 +13,27 @@ toc_sticky: true
         section { font-size: 16px; }
         .notice--primary > ul { font-size: 14px; }
         tbody, th { text-align: center; }
-        .notice--primary { width: 50%; margin-left: 24px; }
+        .notice--primary, .notice--warning { width: 50%; margin-left: 24px; }
         b { color: crimson; }
     </style>
 </head>
 <br/>
 
 
-# 구역목표
+# 주의사항
 {% capture notice %}
-* 두목 처치하기　0/1
-* 보물 획득하기　0/2
+* 메인 퀘스트 <b>"페넬로페의 수의"</b>와 함께 진행하면 좋음
+* 스포일러는 드래그해서 보기
 {% endcapture %}
 
-<div class="notice--primary">{{ notice | markdownify }}</div>
+<div class="notice--warning">{{ notice | markdownify }}</div>
 <br/>
 
 
 # 퀘스트 진행
 
-1. 습격당한 장소로 이동하기
+1. 해당 위치로 이동
+    - 케팔로니아 좌측 섬으로 이동
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/1.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/1.png">
     </a>
