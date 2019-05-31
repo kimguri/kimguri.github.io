@@ -16,6 +16,15 @@ toc_sticky: true
         .notice--primary { width: 50%; margin-left: 24px; }
         b { color: crimson; }
     </style>
+    <script>
+        function SirenFunction(idMyDiv){
+        var objDiv = document.getElementById(idMyDiv);
+        if(objDiv.style.display=="block")
+            objDiv.style.display = "none";
+        else
+            objDiv.style.display = "block";
+        }
+    </script> 
 </head>
 <br>
 
@@ -57,11 +66,14 @@ toc_sticky: true
 # 퀘스트 진행
 
 1. 드로가라티 동굴 앞으로 이동
-<a href="/assets/images/aoc/kephallonia/01-Hungry-gods/1.png"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/1.png"></a>
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/1.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/1.png">
+    </a>
     <pre></pre>
     
 2. 동굴 앞 "시민"에게 말걸기
-<a href="/assets/images/aoc/kephallonia/01-Hungry-gods/2.png"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/2.png"></a>
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/2.png">
+    <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/2.png"></a>
     <pre></pre>
 
 3. 대화 후 드로가라티 동굴로 들어가기
@@ -73,10 +85,17 @@ toc_sticky: true
 4. 동상 근처의 상호작용 2개 진행하기
     - 동상 좌측 바닥
     - 동상 뒤쪽 벽
-        <figure class="third" style="margin: 0px;">
-            <a href="/assets/images/aoc/kephallonia/01-Hungry-gods/4-1.png"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/4-1.png"></a>
-            <a href="/assets/images/aoc/kephallonia/01-Hungry-gods/4-2.png"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/4-2.png"></a>
-            <a href="/assets/images/aoc/kephallonia/01-Hungry-gods/4-3.png"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/4-3.png"></a>
+        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-1.png">
+            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-1.png">
+        </a>
+        
+        <figure class="half" style="margin: 0px;">
+            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-2.png">
+                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-2.png">
+            </a>
+            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-3.png">
+                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-3.png">
+            </a>
         </figure>
         <p></p>
 
@@ -86,24 +105,46 @@ toc_sticky: true
 
 6. 입장 후 우측으로 쭉 들어가기
     - 적이 등장할 수 있으니 <b>웅크려서</b> 풀숲으로 이동 추천!!
-    <a href="/assets/images/aoc/kephallonia/01-Hungry-gods/6.png"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/6.png"></a>
+    <a href="/https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/6.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/6.png">
+    </a>
     <pre></pre>
 
 7. 안쪽으로 쭉 들어가서 큰 벽이 보이면 2가지 경로로 진행 가능
     - 왼쪽: 벽 위로 올라가서 일부 도적 및 상자부터 획득
     - 오른쪽: 도적들과 한 판!
-    <a href="/assets/images/aoc/kephallonia/01-Hungry-gods/7.jpeg"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/7.jpeg"></a>
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/7.jpeg">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/7.jpeg">
+    </a>
     <pre></pre>
 
 8. 동굴 내부의 도적 모두 처치
-    <a href="/assets/images/aoc/kephallonia/01-Hungry-gods/8.png"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/8.png"></a>
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8.png">
+    </a>
     - 진행하면서 구역 목표 달성 가능! <b>(선택 사항)</b>
-        - <b style="color:#494e52">도적 두목을 처치</b>하여 구역 목표 달성
-        - <b style="color:#494e52">상자를 획득</b>하여 구역 목표 달성
-            <figure class="half" style="margin: 0px;">
-                <a href="/assets/images/aoc/kephallonia/01-Hungry-gods/8-1.jpeg"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/8-1.jpeg"></a>
-                <a href="/assets/images/aoc/kephallonia/01-Hungry-gods/8-2.png"><img src="/assets/images/aoc/kephallonia/01-Hungry-gods/8-2.png"></a>
-            </figure>
+        <div class="con_inner">
+            <div class="sir_singo_msg">
+                <a href="#" onclick="SirenFunction('SirenDiv'); return false;" class="blind_view btn">
+                    <i class="fas fa-caret-square-down"></i> 더보기
+                </a>
+            </div>
+            <div class="singo_view" id="SirenDiv" style="display:none">
+                <ul>
+                    <li>두목 처치하기 0/1</li>
+                    <li>보물 획득하기 0/1</li>
+                    <figure class="half" style="margin: 0px;">
+                        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8-1.jpeg">
+                            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8-1.jpeg">
+                        </a>
+                        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8-2.png">
+                            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8-2.png">
+                        </a>
+                    </figure>
+                </ul>                
+            </div>
+        </div>
+    <pre></pre>   
 
 9. 신도에게 돌아가기
     <pre></pre>    
@@ -114,7 +155,7 @@ toc_sticky: true
 
         ||대답하기 || 대답 안하기||
         ||:------:||:--------:||
-        ||['자비로운 신들' <br> 퀘스트 수락](../www.naver.com){: .btn .btn--success .btn--large} || 퀘스트 거절||
+        ||['자비로운 신들' <br> 퀘스트 수락](https://kimguri.github.io/aco/03-kephallonia-Merciful-Gods/){: .btn .btn--success .btn--large} || 퀘스트 거절||
         
         <pre></pre>
 

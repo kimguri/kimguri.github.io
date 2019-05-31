@@ -16,13 +16,14 @@ toc_sticky: true
         .notice--primary { width: 50%; margin-left: 24px; }
         b { color: crimson; }
     </style>
+    
 </head>
 <br>
 
 
 # 구역 목표
 {% capture notice %}
-* 도편 수수께끼 0/1
+* 도편 수수께끼　0/1
 * 보물 획득하기　0/2
 {% endcapture %}
 
