@@ -10,6 +10,9 @@ main:
   #   url: /categories/
   - title: "Home"
     url: /
+
+  - title: "Page"
+    url: /:filename
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
