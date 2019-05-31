@@ -29,7 +29,7 @@ toc_sticky: true
 <br>
 
 
-# 구역 목표
+# 구역목표
 {% capture notice %}
 * 두목 처치하기　0/2
 * 포로 풀어주기　0/1
@@ -62,7 +62,7 @@ toc_sticky: true
         </figure>
         <pre></pre>
 
-3. 구역 목표 진행 가능! <b>(선택 사항)</b>
+3. 구역 목표 진행 가능! <b>(선택사항)</b>
     <div class="con_inner">
         <div class="sir_singo_msg">
             <a href="#" onclick="SirenFunction('SirenDiv'); return false;" class="blind_view btn">

@@ -54,7 +54,7 @@ toc_sticky: true
 
 
 
-# 구역 목표
+# 구역목표
 {% capture notice %}
 * 두목 처치하기　0/1
 * 보물 획득하기　0/1
@@ -125,7 +125,7 @@ toc_sticky: true
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8.png">
     </a>
-    - 진행하면서 구역 목표 달성 가능! <b>(선택 사항)</b>
+    - 진행하면서 구역 목표 달성 가능! <b>(선택사항)</b>
         <div class="con_inner">
             <div class="sir_singo_msg">
                 <a href="#" onclick="SirenFunction('SirenDiv'); return false;" class="blind_view btn">

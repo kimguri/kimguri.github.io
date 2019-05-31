@@ -19,7 +19,7 @@ toc_sticky: true
 </head>
 <br>
 
-# 구역 목표
+# 구역목표
 {% capture notice %}
 * 보물 획득하기　0/1
 {% endcapture %}

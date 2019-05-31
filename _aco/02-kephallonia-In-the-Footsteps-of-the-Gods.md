@@ -21,7 +21,7 @@ toc_sticky: true
 <br>
 
 
-# 구역 목표
+# 구역목표
 {% capture notice %}
 * 도편 수수께끼　0/1
 * 보물 획득하기　0/2
