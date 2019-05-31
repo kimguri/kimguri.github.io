@@ -5,6 +5,7 @@ classes: wide #와이드 페이지 설정
 toc: true
 toc_icon: file-alt
 toc_sticky: true
+comments: true
 ---
 
 <head>

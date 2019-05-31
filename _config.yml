@@ -325,6 +325,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      elated: true
+      comments: true
       share: false
       sidebar:
         nav: "menu"
