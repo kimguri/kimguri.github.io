@@ -26,7 +26,7 @@ toc_sticky: true
         <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/1.png">
             <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/1.png">
         </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
     
 2. 근처에 있는 바구니에 상호작용
     <figure class="half" style="margin: 0px;">
@@ -37,4 +37,3 @@ toc_sticky: true
             <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/03-Merciful-Gods/3.png">
         </a>
     </figure>
-    <pre></pre>

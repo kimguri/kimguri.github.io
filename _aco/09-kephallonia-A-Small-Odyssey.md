@@ -11,7 +11,7 @@ toc_sticky: true
     <style type="text/css">
         aside { font-size: 22px; }
         section { font-size: 16px; }
-        .notice--primary > ul { font-size: 14px; }
+        .notice--primary > ul, .notice--warning > ul { font-size: 14px; }
         tbody, th { text-align: center; }
         .notice--primary, .notice--warning { width: 50%; margin-left: 24px; }
         b { color: crimson; }
@@ -94,7 +94,7 @@ toc_sticky: true
         </div>
         <div class="singo_view" id="SirenDiv" style="display:none">
             <ul>
-                <li>오데사는 처음 만나는 연애대상!</li>
+                <li>오데사는 처음 만나는 연애상대!</li>
                 <li>플레이어 대답에 따라 추후 연애 방향이 바뀔 수 있음</li>
             </ul>
         </div>

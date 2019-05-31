@@ -62,27 +62,27 @@ toc_sticky: true
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/3-1.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/3-1.png">
     </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
 
 4. 수면 위로 올라와서 동굴로 들어가기
     - 동굴 안으로 들어가서 잠수로 이동 => <b>수면이 얕아질 때까지 계속 앞으로 이동</b>
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/4.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/4.png">
     </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
 
 5. 수면 위로 올라와서 보이는 길로 계속 직진
     - 멜리사니 동굴로 입장 => <b>적이 등장하니 조심!</b>
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/5.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/5.png">
     </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
 
 6. 안쪽으로 들어가면 <b>보물상자②</b> 획득
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/6.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/02-In-the-Footsteps-of-the-Gods/6.png">
     </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
 
 7. "여신관"에게 돌아가 대화하여 퀘스트 완료
     - 돌아가는 길은 2가지<br/>

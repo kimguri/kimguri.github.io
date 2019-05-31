@@ -136,7 +136,7 @@ toc_sticky: true
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/4-2.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/04-A-Ship-Came-Sailing/4-2.png">
     </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
 
 5. 다보스와 대화하여 퀘스트 완료
-    - 오르네오스를 바로 구출해서 받았어도 다보스와 대화하여 완료
+    - 오르네오스를 바로 구출해서 진행했어도 다보스와 대화하여 완료

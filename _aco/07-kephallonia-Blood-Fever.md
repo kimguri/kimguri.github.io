@@ -11,7 +11,7 @@ toc_sticky: true
     <style type="text/css">
         aside { font-size: 22px; }
         section { font-size: 16px; }
-        .notice--primary > ul { font-size: 14px; }
+        .notice--primary > ul, .notice--warning > ul { font-size: 14px; }
         tbody, th { text-align: center; }
         .notice--warning { width: 50%; margin-left: 24px; }
         b { color: crimson; }
@@ -21,7 +21,7 @@ toc_sticky: true
 
 # 참고사항
 {% capture notice %}
-* 해당 퀘스트는 선택에 따라 게임 진행에 큰 영향이 있음!
+* 해당 퀘스트는 <b>선택</b>에 따라 게임 진행에 큰 <b>영향이 있음!</b>
 {% endcapture %}
 
 <div class="notice--warning">{{ notice | markdownify }}</div>
@@ -75,9 +75,8 @@ toc_sticky: true
 3. 2가지 선택 중 고르기
     - 신관편을 들었다면 : 포이베가 나타나 퀘스트 완료
     - 아픈 사람들 편을 들었다면 <b>(2가지)</b>
-        - 신관 처치 후 대화하여 퀘스트 완료
-        - 또는 대화없이 바로 신관을 처치 => 아픈 사람들과 대화하여 퀘스트 완료
+        - 신관과 대화 후 처치 => 아픈 사람들과 대화하여 퀘스트 완료
+        - 대화없이 바로 신관을 처치 => 아픈 사람들과 대화하여 퀘스트 완료
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/4.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/4.png">
     </a>
-    <pre></pre>

@@ -69,20 +69,20 @@ toc_sticky: true
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/1.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/1.png">
     </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
     
 2. 동굴 앞 "시민"에게 말걸기
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/2.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/2.png">
     </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
 
 3. 대화 후 드로가라티 동굴로 들어가기
     - 아래 이미지의 동상이 나오는 곳까지 들어가기
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/3.jpeg">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/3.jpeg">
     </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
 
 
 4. 동상 근처의 상호작용 2개 진행하기
@@ -100,7 +100,7 @@ toc_sticky: true
                 <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-3.png">
             </a>
         </figure>
-        <p></p>
+        <pre></pre>
 
 5. 동상 뒤쪽 벽의 균열로 들어가기
     - 벽 너머에 있는 구역 탐사하기
@@ -111,7 +111,7 @@ toc_sticky: true
     <a href="/https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/6.png">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/6.png">
     </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
 
 7. 안쪽으로 쭉 들어가서 큰 벽이 보이면 2가지 경로로 진행 가능
     - 왼쪽: 벽 위로 올라가서 일부 도적 및 상자부터 획득
@@ -119,7 +119,7 @@ toc_sticky: true
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/7.jpeg">
         <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/7.jpeg">
     </a>
-    <pre></pre>
+    <pre></pre><pre></pre>
 
 8. 동굴 내부의 도적 모두 처치
     <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8.png">
@@ -150,7 +150,7 @@ toc_sticky: true
     <pre></pre>   
 
 9. 신도에게 돌아가기
-    <pre></pre>    
+    <pre></pre><pre></pre>
 
 10. 돌아가던 중 벽의 균열을 지날 때 서브 퀘스트 발생
     - 다른 신도가 와서 소원을 빈다.
@@ -160,7 +160,7 @@ toc_sticky: true
         ||:------:||:--------:||
         ||['자비로운 신들' <br> 퀘스트 수락](https://kimguri.github.io/aco/03-kephallonia-Merciful-Gods/){: .btn .btn--success .btn--large} || 퀘스트 거절||
         
-        <pre></pre>
+        <pre></pre><pre></pre>
 
 11. 신도에게 돌아가 대화하여 퀘스트 완료
 
