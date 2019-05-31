@@ -1,11 +1,11 @@
 ---
 title: \[케팔로니아] 배고픈 신들
-excerpt: 케팔로니아 서브 퀘스트
+#excerpt: 케팔로니아 서브 퀘스트
 classes: wide #와이드 페이지 설정
 toc: true
 toc_icon: file-alt
 toc_sticky: true
-comments: true
+date: 2019-05-18
 ---
 
 <head>
@@ -25,7 +25,7 @@ comments: true
         else
             objDiv.style.display = "block";
         }
-    </script> 
+    </script>
 </head>
 <br>
 
