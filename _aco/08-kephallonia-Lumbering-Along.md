@@ -32,25 +32,56 @@ toc_sticky: true
 
 # 퀘스트 진행
 
-1. 포이베와 대화하기
-    <figure class="half" style="margin: 0px;">
-        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/1-1.png">
-            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/1-1.png">
-        </a>
-        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/1-2.png">
-            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/1-2.png">
-        </a> 
-    </figure>
+1. 습격당한 장소로 이동하기
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/1.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/1.png">
+    </a>
+    <pre></pre>
     <pre></pre>
 
-2. 카우소스 마을로 이동하기
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/2.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/2.png">
+2. 총 3곳을 조사
+    - 퀘스트 목적지 도착 후 상호작용
+        <figure class="half" style="margin: 0px;">
+            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-1.png">
+                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-1.png">
+            </a>
+            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-2.png">
+                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-2.png">
+            </a>
+        </figure>
+    - 목재 야적장 방향(지도 12시 방향)으로 이동 => 부서진 수레 상호작용
+        
+        <figure class="half" style="margin: 0px;">
+            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-3-1.png">
+                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-3-1.png">
+            </a>
+            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-3-2.png">
+                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-3-2.png">
+            </a>
+        </figure>
+
+    - 수레를 마주선채 좌측 방향으로 돌면 나오는 나무로 이동 후 상호작용
+        <figure class="half" style="margin: 0px;">
+            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-4-1.png">
+                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-4-1.png">
+            </a>
+            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-4-2.png">
+                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-4-2.png">
+            </a>
+        </figure>
+    <pre></pre>
+    
+3. 이카로스 호출
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/3.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/3.png">
     </a>
-    
     <pre></pre>
+
+4. 해당 위치로 이동하여 도적들 모두 처치
+    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/3.png">
+        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/3.png">
+    </a>
     <pre></pre>
-    
 
 3. 2가지 선택 중 고르기
     - 신관편을 들었다면 : 포이베가 나타나 퀘스트 완료
