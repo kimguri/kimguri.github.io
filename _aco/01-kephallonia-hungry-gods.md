@@ -5,7 +5,7 @@ classes: wide #와이드 페이지 설정
 toc: true
 toc_icon: file-alt
 toc_sticky: true
-date: 2019-05-18
+date: 2019-05-18T
 ---
 
 <head>
@@ -29,7 +29,7 @@ date: 2019-05-18
 </head>
 <br>
 
-
+{{ Time.new.inspect }}
 
 <!-- # 퀘스트 보상
 <table>

@@ -287,7 +287,6 @@ collections:
   aco:
     output: true
     permalink: /:collection/:path/
-    comments: true
 
 # Defaults
 defaults:

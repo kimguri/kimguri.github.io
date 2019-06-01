@@ -1,13 +1,31 @@
 ---
 layout: archive
+#title: "Posts by Collection"
+permalink: /collection/
+author_profile: true
 ---
 
-{{ content }}
+{% capture written_label %}'None'{% endcapture %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+{% for collection in site.collections %}
+  {% unless collection.output == false or collection.label == "posts" %}
+    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% if label != written_label %}
+    
+      {% if label == "aco" %}
+      <h2 id="{{ label | slugify }}" class="archive__subtitle">Assassin's Creed: Odyssey</h2>
+      {% else %}
+      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+      {% endif %}
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
+
+      {% capture written_label %}{{ label }}{% endcapture %}
+    {% endif %}
+  {% endunless %}
+  {% for post in collection.docs %}
+    {% unless collection.output == false or collection.label == "posts" %}
+      {% include archive-single.html %}
+    {% endunless %}
+  {% endfor %}
 {% endfor %}
-
-{% include paginator.html %}
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
