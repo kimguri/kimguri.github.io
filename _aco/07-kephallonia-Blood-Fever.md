@@ -37,11 +37,11 @@ date: 2019-05-31
 * 위치정보
     - 신관을 마주보고 서서 우측 건물에서 <b>도편과 보물상자</b> 획득 가능
         <figure class="half" style="margin: 0px;">
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/3-1.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/3-1.png">
+            <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/3-1.png">
+                <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/3-1.png">
             </a>
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/3-2.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/3-2.png">
+            <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/3-2.png">
+                <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/3-2.png">
             </a>
         </figure>
 
@@ -55,18 +55,18 @@ date: 2019-05-31
 
 1. 포이베와 대화하기
     <figure class="half" style="margin: 0px;">
-        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/1-1.png">
-            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/1-1.png">
+        <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/1-1.png">
+            <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/1-1.png">
         </a>
-        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/1-2.png">
-            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/1-2.png">
+        <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/1-2.png">
+            <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/1-2.png">
         </a> 
     </figure>
     <pre></pre>
 
 2. 카우소스 마을로 이동하기
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/2.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/2.png">
+    <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/2.png">
+        <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/2.png">
     </a>
     
     <pre></pre>
@@ -78,6 +78,6 @@ date: 2019-05-31
     - 아픈 사람들 편을 들었다면 <b>(2가지)</b>
         - 신관과 대화 후 처치 => 아픈 사람들과 대화하여 퀘스트 완료
         - 대화없이 바로 신관을 처치 => 아픈 사람들과 대화하여 퀘스트 완료
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/4.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/07-Blood-Fever/4.png">
+    <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/4.png">
+        <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/07-Blood-Fever/4.png">
     </a>

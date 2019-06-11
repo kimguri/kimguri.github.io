@@ -65,21 +65,21 @@ date: 2019-05-18T
 # 퀘스트 진행
 
 1. 드로가라티 동굴 앞으로 이동
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/1.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/1.png">
+    <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/1.png">
+        <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/1.png">
     </a>
     <pre></pre><pre></pre>
     
 2. 동굴 앞 "시민"에게 말걸기
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/2.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/2.png">
+    <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/2.png">
+        <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/2.png">
     </a>
     <pre></pre><pre></pre>
 
 3. 대화 후 드로가라티 동굴로 들어가기
     - 아래 이미지의 동상이 나오는 곳까지 들어가기
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/3.jpeg">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/3.jpeg">
+    <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/3.jpeg">
+        <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/3.jpeg">
     </a>
     <pre></pre><pre></pre>
 
@@ -87,16 +87,16 @@ date: 2019-05-18T
 4. 동상 근처의 상호작용 2개 진행하기
     - 동상 좌측 바닥
     - 동상 뒤쪽 벽
-        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-1.png">
-            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-1.png">
+        <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/4-1.png">
+            <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/4-1.png">
         </a>
         
         <figure class="half" style="margin: 0px;">
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-2.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-2.png">
+            <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/4-2.png">
+                <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/4-2.png">
             </a>
-            <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-3.png">
-                <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/4-3.png">
+            <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/4-3.png">
+                <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/4-3.png">
             </a>
         </figure>
         <pre></pre>
@@ -107,22 +107,22 @@ date: 2019-05-18T
 
 6. 입장 후 우측으로 쭉 들어가기
     - 적이 등장할 수 있으니 <b>웅크려서</b> 풀숲으로 이동 추천!!
-    <a href="/https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/6.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/6.png">
+    <a href="/{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/6.png">
+        <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/6.png">
     </a>
     <pre></pre><pre></pre>
 
 7. 안쪽으로 쭉 들어가서 큰 벽이 보이면 2가지 경로로 진행 가능
     - 왼쪽: 벽 위로 올라가서 일부 도적 및 상자부터 획득
     - 오른쪽: 도적들과 한 판!
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/7.jpeg">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/7.jpeg">
+    <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/7.jpeg">
+        <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/7.jpeg">
     </a>
     <pre></pre><pre></pre>
 
 8. 동굴 내부의 도적 모두 처치
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8.png">
+    <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/8.png">
+        <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/8.png">
     </a>
     - 진행하면서 구역 목표 달성 가능! <b>(선택사항)</b>
         <div class="con_inner">
@@ -136,11 +136,11 @@ date: 2019-05-18T
                     <li>두목 처치하기 0/1</li>
                     <li>보물 획득하기 0/1</li>
                     <figure class="half" style="margin: 0px;">
-                        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8-1.jpeg">
-                            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8-1.jpeg">
+                        <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/8-1.jpeg">
+                            <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/8-1.jpeg">
                         </a>
-                        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8-2.png">
-                            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/01-hungry-gods/8-2.png">
+                        <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/8-2.png">
+                            <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/01-hungry-gods/8-2.png">
                         </a>
                     </figure>
                 </ul>                

@@ -43,27 +43,27 @@ date: 2019-05-31
 
 1. 해당 위치로 이동
     - 케팔로니아 좌측 섬으로 이동
-        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/1.png">
-            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/1.png">
+        <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/1.png">
+            <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/1.png">
         </a>
     <pre></pre>
     <pre></pre>
 
 2. 수감자를 풀어준 후 쫓아가기
     <figure class="half" style="margin: 0px;">
-        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/2-1.png">
-            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/2-1.png">
+        <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/2-1.png">
+            <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/2-1.png">
         </a>
-        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-2.png">
-            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/08-Lumbering-Along/2-2.png">
+        <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/08-Lumbering-Along/2-2.png">
+            <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/08-Lumbering-Along/2-2.png">
         </a>
     </figure>
     <pre></pre>
     
 3. 수감자와 대화하기
     - 자신이 "오데사"라고 밝히며 갇힌 이유를 설명해줌
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/3.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/3.png">
+    <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/3.png">
+        <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/3.png">
     </a>
     <pre></pre><pre></pre>
 
@@ -71,18 +71,18 @@ date: 2019-05-31
 4. 오데사 호위하기
     - 궁전 내부에 들어가 해당 위치로 이동
     <figure class="half" style="margin: 0px;">
-        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-1.png">
-            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-1.png">
+        <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-1.png">
+            <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-1.png">
         </a>
-        <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-2.png">
-            <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-2.png">
+        <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-2.png">
+            <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/4-2.png">
         </a>
     </figure>
     <pre></pre>
 
 5. 오데사와 대화 후 배까지 호위하기
-    <a href="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/5.png">
-        <img src="https://raw.githubusercontent.com/kimguri/kimguri.github.io/master/assets/images/aoc/kephallonia/09-A-Small-Odyssey/5.png">
+    <a href="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/5.png">
+        <img src="{{ site.baseurl }}/assets/images/aoc/kephallonia/09-A-Small-Odyssey/5.png">
     </a>
     <pre></pre><pre></pre>
 
