@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "김구리's blog"
+title                    : "김구리's Blog"
 title_separator          : "-"
 name                     : "김구리" # 페이지 하단 유저 이름 출력하는 곳 변경
 description              : "-"
@@ -76,7 +76,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : google050c7fa3daeab76f
+google_site_verification : ArfuoEi0AQbMsBCb9rbl53EU4JtyBOFZyk8-mw3uG38
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  : naverf38a2386521780b63ca4ffffedc972f8
