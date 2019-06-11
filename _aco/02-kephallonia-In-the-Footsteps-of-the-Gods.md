@@ -1,5 +1,5 @@
 ---
-title: \[케팔로니아] 신들의 발자국
+title: \[오디세이] 케팔로니아 - 신들의 발자국
 #excerpt: 케팔로니아 서브 퀘스트
 classes: wide #와이드 페이지 설정
 toc: true

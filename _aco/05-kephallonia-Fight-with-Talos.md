@@ -1,5 +1,5 @@
 ---
-title: \[케팔로니아] 탈로스와의 결투
+title: \[오디세이] 케팔로니아 - 탈로스와의 결투
 #excerpt: 케팔로니아 서브 퀘스트
 classes: wide #와이드 페이지 설정
 toc: true

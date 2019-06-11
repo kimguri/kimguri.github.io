@@ -76,10 +76,10 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : google050c7fa3daeab76f
 bing_site_verification   :
 yandex_site_verification :
-naver_site_verification  :
+naver_site_verification  : naverf38a2386521780b63ca4ffffedc972f8
 
 # Social Sharing
 twitter:
@@ -229,7 +229,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -241,6 +241,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 
 # Archives

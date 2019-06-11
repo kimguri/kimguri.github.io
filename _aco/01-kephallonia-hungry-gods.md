@@ -1,5 +1,5 @@
 ---
-title: \[케팔로니아] 배고픈 신들
+title: \[오디세이] 케팔로니아 - 배고픈 신들
 #excerpt: 케팔로니아 서브 퀘스트
 classes: wide #와이드 페이지 설정
 toc: true
@@ -28,8 +28,6 @@ date: 2019-05-18T
     </script>
 </head>
 <br>
-
-{{ Time.new.inspect }}
 
 <!-- # 퀘스트 보상
 <table>
