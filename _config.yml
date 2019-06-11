@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR" #"en-US"
 title                    : "김구리's Blog"
 title_separator          : "-"
 name                     : "김구리" # 페이지 하단 유저 이름 출력하는 곳 변경
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "김구리"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "라이트 컨텐츠를 하드하게!"
   #location         : "Somewhere"
   email            :
