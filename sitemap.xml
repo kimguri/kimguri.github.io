@@ -1,60 +1,129 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for collection in site.collections %}
-    <url>
-      <loc>{{ site.url }}{{ collection.url }}</loc>
-      {% if collection.lastmod == null %}
-        <lastmod>{{ collection.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ collection.lastmod | date_to_xmlschema }}</lastmod>
-      {% endif %}
 
-      {% if collection.sitemap.changefreq == null %}
-        <changefreq>weekly</changefreq>
-      {% else %}
-        <changefreq>{{ collection.sitemap.changefreq }}</changefreq>
-      {% endif %}
+-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-      {% if collection.sitemap.priority == null %}
-          <priority>0.5</priority>
-      {% else %}
-        <priority>{{ collection.sitemap.priority }}</priority>
-      {% endif %}
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-    </url>
-  {% endfor %}
+
+
+-<url>
+
+<loc>https://kimguri.github.io/</loc>
+
+<lastmod>2019-06-11T06:51:24+00:00</lastmod>
+
+<priority>1.00</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://kimguri.github.io/collection/</loc>
+
+<lastmod>2019-06-11T06:51:24+00:00</lastmod>
+
+<priority>0.80</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://kimguri.github.io/aco/01-kephallonia-hungry-gods/</loc>
+
+<lastmod>2019-06-11T06:51:25+00:00</lastmod>
+
+<priority>0.80</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://kimguri.github.io/aco/02-kephallonia-In-the-Footsteps-of-the-Gods/</loc>
+
+<lastmod>2019-06-11T06:51:25+00:00</lastmod>
+
+<priority>0.80</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://kimguri.github.io/aco/03-kephallonia-Merciful-Gods/</loc>
+
+<lastmod>2019-06-11T06:51:25+00:00</lastmod>
+
+<priority>0.80</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://kimguri.github.io/aco/04-kephallonia-A-Ship-Came-Sailing/</loc>
+
+<lastmod>2019-06-11T06:51:25+00:00</lastmod>
+
+<priority>0.80</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://kimguri.github.io/aco/05-kephallonia-Fight-with-Talos/</loc>
+
+<lastmod>2019-06-11T06:51:25+00:00</lastmod>
+
+<priority>0.80</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://kimguri.github.io/aco/06-kephallonia-Shark-the-Vagrant/</loc>
+
+<lastmod>2019-06-11T06:51:25+00:00</lastmod>
+
+<priority>0.80</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://kimguri.github.io/aco/07-kephallonia-Blood-Fever/</loc>
+
+<lastmod>2019-06-11T06:51:25+00:00</lastmod>
+
+<priority>0.80</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://kimguri.github.io/aco/08-kephallonia-Lumbering-Along/</loc>
+
+<lastmod>2019-06-11T06:51:25+00:00</lastmod>
+
+<priority>0.80</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://kimguri.github.io/aco/09-kephallonia-A-Small-Odyssey/</loc>
+
+<lastmod>2019-06-11T06:51:25+00:00</lastmod>
+
+<priority>0.80</priority>
+
+</url>
+
 </urlset>
-
-
-
-<!-- 
----
----
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts %}
-    <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
-      {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-      {% endif %}
-
-      {% if post.sitemap.changefreq == null %}
-        <changefreq>weekly</changefreq>
-      {% else %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-      {% endif %}
-
-      {% if post.sitemap.priority == null %}
-          <priority>0.5</priority>
-      {% else %}
-        <priority>{{ post.sitemap.priority }}</priority>
-      {% endif %}
-
-    </url>
-  {% endfor %}
-</urlset> -->
