@@ -14,7 +14,6 @@ date: 2019-05-30
         section { font-size: 16px; }
         .notice--primary > ul { font-size: 14px; }
         tbody, th { text-align: center; }
-        .notice--primary { width: 50%; margin-left: 24px; }
         b { color: crimson; }
     </style>
     
