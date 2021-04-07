@@ -3,7 +3,7 @@ title: \[오디세이] 케팔로니아 - 배고픈 신들
 #excerpt: 케팔로니아 서브 퀘스트
 toc: true
 toc_icon: file-alt
-toc_sticky: true
+toc_sticky: false
 date: 2019-05-18T
 ---
 
