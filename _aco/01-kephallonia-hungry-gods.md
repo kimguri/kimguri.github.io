@@ -1,7 +1,6 @@
 ---
 title: \[오디세이] 케팔로니아 - 배고픈 신들
 #excerpt: 케팔로니아 서브 퀘스트
-#classes: wide #와이드 페이지 설정 -> 와이드 설정 시 자동으로 메뉴가 상단으로 
 toc: true
 toc_icon: file-alt
 toc_sticky: true
